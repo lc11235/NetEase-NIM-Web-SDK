@@ -1,3 +1,6 @@
+# @huyandong/netease-nim-web-sdk
+
+[![npm version](https://badge.fury.io/js/@huyandong%2Fnetease-nim-web-sdk.svg)](https://badge.fury.io/js/@huyandong%2Fnetease-nim-web-sdk)
 # 网易云信 web sdk
 同步官方web sdk
 ## Install 
