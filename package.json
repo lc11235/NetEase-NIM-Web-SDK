@@ -1,5 +1,5 @@
 {
-  "name": "@mad-hu/netease-nim-web-sdk",
+  "name": "@huyandong/netease-nim-web-sdk",
   "version": "8.7.2",
   "description": "",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "tsc && npm publish --access public"
   },
-  "homepage": "",
+  "homepage": "https://github.com/Mad-hu/NetEase-NIM-Web-SDK",
   "author": "Mad-hu",
   "license": "MIT",
   "devDependencies": {

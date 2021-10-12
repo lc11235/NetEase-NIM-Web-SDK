@@ -1,5 +1,5 @@
 # 网易云信 web sdk
-同步官方web sdk，
+同步官方web sdk
 ## Install 
 ```nodejs
 npm install @mad-hu/netease-nim-web-sdk
@@ -15,8 +15,8 @@ import {
     NIM_WEB_SDK,
     NIM_Web_WebRTC,
     NIM_Web_WhiteBoard,
-    SDK_VERSION } from "@mad-hu/netease-nim-web-sdk";
+    SDK_VERSION } from "@huyandong/netease-nim-web-sdk";
 
 const nim = NIM_Web_NIM.getInstance({...});
-
+// 其他用法同步官方
 ```
