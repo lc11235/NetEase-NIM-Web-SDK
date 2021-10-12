@@ -2,7 +2,7 @@
 同步官方web sdk
 ## Install 
 ```nodejs
-npm install @mad-hu/netease-nim-web-sdk
+npm install @huyandong/netease-nim-web-sdk
 ```
 ## Usage
 ``` javascript
